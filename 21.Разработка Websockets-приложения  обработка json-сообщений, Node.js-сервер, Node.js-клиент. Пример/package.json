@@ -1,0 +1,7 @@
+{
+  "name": "21",
+  "version": "1.0.0",
+  "dependencies": {
+    "ws": "^7.3.0"
+  }
+}

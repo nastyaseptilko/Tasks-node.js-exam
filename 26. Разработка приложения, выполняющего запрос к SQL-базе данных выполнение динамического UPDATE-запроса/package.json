@@ -1,0 +1,8 @@
+{
+  "name": "53",
+  "version": "1.0.0",
+  "dependencies": {
+    "msnodesqlv8": "^0.8.6",
+    "mssql": "latest"
+  }
+}
